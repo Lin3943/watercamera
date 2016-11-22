@@ -1,2 +1,3 @@
-# watercamera
-reference and complete someone’s project
+# Custom Camera
+ - With Auto Focus functionality.
+ - Switch Camera
